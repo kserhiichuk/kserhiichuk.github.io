@@ -185,13 +185,21 @@ p, ol {
     font-family: system-ui;
 }
 
-ol{
+ol {
     font-size: 1.8vw;
 }
 
 ul a {
-    font-size: 1.8vw;
-    padding: 1vw 1vw;
+    font-size: 1.5vw;
     color: #000000;
+    font-family: system-ui;
+}
+
+.right-bottom p {
+    font-size: 1.8vw;
+    color: #000000;
+    text-align: left;
+    margin-left: 0.8vw;
+    font-weight: bold;
     font-family: system-ui;
 }
